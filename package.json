@@ -5,7 +5,9 @@
   "main": "download.js",
   "dependencies": {
     "axios": "^0.16.2",
+    "js-treeview": "^1.1.4",
     "request": "^2.82.0",
+    "requirejs": "^2.3.5",
     "tesseract.js": "^1.0.10"
   },
   "devDependencies": {},
